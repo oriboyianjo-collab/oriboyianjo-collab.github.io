@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.oriboyianjo_collab.portfolio",
+    "sha256_cert_fingerprints": ["B6:46:2E:7C:C7:28:09:07:27:DF:EE:76:EB:0C:41:33:C0:44:D0:8A:55:C3:DC:F4:3D:BE:B7:C3:48:E9:1D:C1"]
+  }
+}]
